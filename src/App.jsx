@@ -24,7 +24,7 @@ function App() {
             ศุภเชษฐ ชัยเลิศ
           </h1>
           <p class="lead animate__animated animate__fadeInUp animate__delay-1-5s">
-            Full-stack Developer ผู้สร้างสรรค์โซลูชันซอฟต์แวร์ที่ตอบโจทย์
+            สร้างสรรค์โซลูชันซอฟต์แวร์ที่ตอบโจทย์ให้คุณ
           </p>
         </div>
       </header>
